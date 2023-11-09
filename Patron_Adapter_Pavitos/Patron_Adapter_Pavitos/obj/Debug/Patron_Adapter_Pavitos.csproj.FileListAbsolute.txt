@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron_Adapter_Pavitos\Patron_Adapter_Pavitos\bin\Debug\Patron_Adapter_Pavitos.exe.config
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron_Adapter_Pavitos\Patron_Adapter_Pavitos\bin\Debug\Patron_Adapter_Pavitos.exe
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron_Adapter_Pavitos\Patron_Adapter_Pavitos\bin\Debug\Patron_Adapter_Pavitos.pdb
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron_Adapter_Pavitos\Patron_Adapter_Pavitos\obj\Debug\Patron_Adapter_Pavitos.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron_Adapter_Pavitos\Patron_Adapter_Pavitos\obj\Debug\Patron_Adapter_Pavitos.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron_Adapter_Pavitos\Patron_Adapter_Pavitos\obj\Debug\Patron_Adapter_Pavitos.exe
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron_Adapter_Pavitos\Patron_Adapter_Pavitos\obj\Debug\Patron_Adapter_Pavitos.pdb
